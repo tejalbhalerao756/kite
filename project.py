@@ -7,3 +7,4 @@ def fibonacci_generator():
 gen = fibonacci_generator()
 for _ in range(10):
     print(next(gen))
+    # Fibonacci program
