@@ -2,7 +2,7 @@
 __pycache__/
 
 *.py[cod]
-=======
+
 *.py[codz]
 
 *$py.class
@@ -53,7 +53,7 @@ coverage.xml
 *.cover
 <<<<<<< HEAD
 *.py,cover
-=======
+
 *.py.cover
 
 .hypothesis/
@@ -115,7 +115,7 @@ ipython_config.py
 #   commonly ignored for libraries.
 #   https://python-poetry.org/docs/basic-usage/#commit-your-poetrylock-file-to-version-control
 #poetry.lock
-<<<<<<< HEAD
+
 
 # pdm
 #   Similar to Pipfile.lock, it is generally recommended to include pdm.lock in version control.
@@ -159,7 +159,7 @@ celerybeat.pid
 
 # Environments
 
-=======
+
 .envrc
 
 .venv
@@ -201,7 +201,7 @@ cython_debug/
 #.idea/
 
 
-=======
+
 # Abstra
 # Abstra is an AI-powered process automation framework.
 # Ignore directories containing user credentials, local state, and settings.
@@ -215,21 +215,21 @@ cython_debug/
 #  you could uncomment the following to ignore the entire vscode folder
 # .vscode/
 
->>>>>>> 6d0ed04 (Initial commit)
+
 # Ruff stuff:
 .ruff_cache/
 
 # PyPI configuration file
 .pypirc
 
-<<<<<<< HEAD
+
 # Cursor  
 #  Cursor is an AI-powered code editor.`.cursorignore` specifies files/directories to 
 #  exclude from AI features like autocomplete and code analysis. Recommended for sensitive data
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
-=======
+
 # Cursor
 #  Cursor is an AI-powered code editor. `.cursorignore` specifies files/directories to
 #  exclude from AI features like autocomplete and code analysis. Recommended for sensitive data

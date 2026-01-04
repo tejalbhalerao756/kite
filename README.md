@@ -1,2 +1,0 @@
-# fibonacci-assistance
-project
