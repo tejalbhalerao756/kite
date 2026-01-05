@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 
@@ -127,7 +128,7 @@ ipython_config.py
 .pdm-python
 .pdm-build/
 
-=======
+
 #poetry.toml
 
 # pdm
@@ -240,4 +241,10 @@ cython_debug/
 # Marimo
 marimo/_static/
 marimo/_lsp/
-__marimo__
+__marimo
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+ e1999cd (Added expense tracker and config files)
