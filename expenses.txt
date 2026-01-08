@@ -1,0 +1,4 @@
+2026-01-08 14:53:21,120.0,travel,safely
+2026-01-08 14:54:16,340.0,bill,electricity bill
+2026-01-08 14:54:53,45.0,food,healthy
+2026-01-08 14:55:36,140.0,food,healthy
